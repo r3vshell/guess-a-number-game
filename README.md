@@ -1,2 +1,2 @@
 # guess-a-number-game
-guess  a number game written in javascript
+A number guess game written in javascript
